@@ -1,0 +1,8 @@
+x = input('Lança alguma coisa ')
+print(x.isnumeric())
+print(x.isalpha())
+print(x.isalnum())
+print(x.isupper())
+print(x.isascii())
+print(x.isprintable())
+print(x.isdecimal())
